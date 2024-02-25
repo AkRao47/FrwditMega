@@ -1,4 +1,4 @@
-# Auto-File-Forward-Bot
+I# Auto-File-Forward-Bot
 
 Auto file forward bot.
 Without Admin Permission in FROM_CHANNEL
@@ -12,7 +12,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/Frwdit)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkRao47/Frwdit)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
